@@ -1,0 +1,109 @@
+html{
+    font-family: Helvetica;
+    font-size: 20px;
+    background-color: #DDD;
+
+}
+
+.container{
+    max-width: 1200px;  
+    background-color: white;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 100px;
+
+
+
+
+}
+
+.destaque{
+    font-weight: bold;
+}
+
+/* cabeçalho */
+.cabecalho{
+    text-align: center;
+
+}
+
+.titulo-principal{
+    font-size: 40px;
+}
+
+.paragrafo-principal{
+    font-style: italic;
+}
+
+/* corpo do site */
+
+
+.img-principal{
+    text-align: center;
+    margin-top: 30px;
+    background-position: center;
+}
+
+.img-integrantes{
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+
+.img-earth{
+    text-align: center;
+    margin-top: 30px;
+    border-radius: 200px;
+}
+
+.borda-radius{
+    border-radius: 20px;    
+}
+
+.borda-radius-3{
+    border-radius: 8px;    
+}
+
+.img-filme{
+    text-align: center;
+    margin-top: 30px;
+    background-position: center;
+}
+
+.img-capa-bs{
+    text-align: center;
+    margin-top: 30px;
+    background-position: center;
+}
+
+.img-paranoid{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.img-capa-13{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.biografia-container{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+.destaque-laranja{
+    color: orange;
+}
+
+.roxo{
+    color: purple;
+}
+
+
+
+
+
